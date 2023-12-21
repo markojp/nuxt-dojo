@@ -9,6 +9,7 @@
 </template>
 
 <script setup>
+definePageMeta({ layout: "products" });
 const { id } = useRoute().params;
 </script>
 
