@@ -19,16 +19,18 @@
     </footer>
   </div>
 </template>
+
 <script setup></script>
+
 <style scoped>
-.router-link-exact-active {
-  color: #12b488;
-}
-a {
-  text-decoration: none;
-  color: black;
-}
-li {
-  list-style: none;
-}
+  .router-link-exact-active {
+    color: #12b488;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  li {
+    list-style: none;
+  }
 </style>
